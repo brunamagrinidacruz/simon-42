@@ -1,4 +1,7 @@
 # Simon42
 
-Projeto para aula de Eletrônica para Computação, 2019
-É baseado no jogo de memorização de cores.
+Developed a color memorization game using Arduino, inspired by Genius.
+
+---
+
+Project for Computer Electronics (SSC0180) - Computer Science @ Instituto de Ciências Matemáticas e de Computação (ICMC) - Universidade de São Paulo (USP). São Carlos, Brazil, 2019.
