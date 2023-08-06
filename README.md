@@ -6,6 +6,7 @@ Developed a color memorization game using Arduino, inspired by Genius.
 
 Circuit Simon42 Design    
 <img src="./circuit_simon_design.png"  style="width:500px;"/>
+
 Circuit Simon42 Real  
 <img src="./circuit_simon_real.jpg"  style="width:500px;"/>
 
