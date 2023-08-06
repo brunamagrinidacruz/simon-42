@@ -4,11 +4,10 @@ Developed a color memorization game using Arduino, inspired by Genius.
 
 [Simon42 Demo](https://www.youtube.com/watch?v=gmdVykNJX98&feature=youtu.be)
 
-Circuit Simon42 Design
-![](./circuit_simon_design.png)
-
-Circuit Simon42 Real
-![](./circuit_simon_real.jpg)
+Circuit Simon42 Design    
+<img src="./circuit_simon_design.png"  style="width:500px;"/>
+Circuit Simon42 Real  
+<img src="./circuit_simon_real.jpg"  style="width:500px;"/>
 
 ---
 
